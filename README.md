@@ -4,7 +4,7 @@ This repository contains the full multimodal deep learning pipeline for **NeuroV
 
 ---
 
-## 🧠 Features
+##  Features
 
 - MRI and EEG preprocessing with data validation and normalization
 - 3D CNN for MRI-based classification of neurodegenerative conditions
@@ -20,14 +20,14 @@ This repository contains the full multimodal deep learning pipeline for **NeuroV
 
 
 
-## ✅ Supported Datasets
+##  Supported Datasets
 
 - **MRI**: ADNI, HCP, fastMRI, OpenNeuro, FigShare HIV datasets
 - **EEG**: CHB-MIT, PhysioNet, OpenNeuro EEG, seizure datasets from Kaggle
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - Ensure `.nii` and `.edf` files are correctly labeled (`hiv`, `seizure`) for automatic target assignment.
 - Fusion model training requires equal sample size in EEG and MRI datasets.
@@ -35,13 +35,13 @@ This repository contains the full multimodal deep learning pipeline for **NeuroV
 
 ---
 
-## 📄 License
+##  License
 
 © 2025 NeuroVR Research Team. All rights reserved.
 Licensed under MIT License.
 
 ---
 
-## 👩‍🔬 Citation
+##  Citation
 
 If you use this project for research, please cite the corresponding NeuroVR paper submitted to NeurIPS 2025.
